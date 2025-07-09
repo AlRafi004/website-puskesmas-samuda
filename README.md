@@ -1,10 +1,10 @@
-<p align="center">
-# Sistem Informasi Puskesmas Samuda
-</p>
+<h1 align="center">  Sistem Informasi Puskesmas Samuda </h1>
 
 <p align="center">
-Repositori ini berisi source code untuk _Sistem Informasi Pendaftaran Pasien Puskesmas Samuda_ yang dibangun menggunakan PHP dan MySQL. Sistem ini ditujukan untuk memudahkan proses pendaftaran pasien, manajemen data pasien, dan layanan kesehatan secara umum di lingkungan Puskesmas Samuda.
+Repositori ini berisi source code untuk Sistem Informasi Pendaftaran Pasien Puskesmas Samuda yang dibangun menggunakan PHP dan MySQL. Sistem ini ditujukan untuk memudahkan proses pendaftaran pasien, manajemen data pasien, dan layanan kesehatan secara umum di lingkungan Puskesmas Samuda.
 </p>
+
+---
 
 ## 📁 Struktur Folder
 
@@ -64,7 +64,7 @@ cp -r Puskesmas-Samuda /xampp/htdocs/
 ```
 config/koneksi.php
 ```
-#### Sesuaikan dengan konfigurasi lokal Anda:
+###    Sesuaikan dengan konfigurasi lokal Anda:
 ```
 $koneksi = mysqli_connect("localhost", "root", "", "db_puskesmas");
 ```
