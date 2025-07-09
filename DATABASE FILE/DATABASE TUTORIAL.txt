@@ -1,5 +1,4 @@
-1. Buat DB di phpMyAdmin.
-	Nama database : hmisphp
+1. Buat DB di phpMyAdmin dengan Nama database: hmisphp
 2. Import, pilih file "hmisphp.sql" tipe SQL.
 3. Simpan dengan klik Import.
 
